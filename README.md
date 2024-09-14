@@ -1,2 +1,2 @@
 # raspberryPiPicoAlarmClock
-An alarm clock made with a raspberry pi pico and python
+An alarm clock made with a raspberry pi pico and python.  Components: one active buzzer for the alarm sound, one LCD I2C display to display the current time, the time the alarm will go off, and alarm time controls, two buttons, one to turn off the alarm and the other used for changing the time the alarm goes off, one joystick for changing the time the alarm goes off, one raspberry pi pico
